@@ -115,13 +115,3 @@ Each candidate has:
 - Rating and projects completed
 - Specializations
 
-## Future Enhancements
-
-The architecture is ready for:
-- Voice command integration (frontend sends transcribed text)
-- OpenAI GPT integration for more advanced understanding
-- Real-time candidate status updates
-- Chat-based candidate interaction
-- Advanced filtering and sorting
-
-
